@@ -46,6 +46,7 @@
   <img src="https://img.shields.io/badge/-Qgis-589632?style=flat-square&logo=qgis&logoColor=white" />
 </span>
 </br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Akimaylilll)](https://github.com/Akimaylilll)
 <!--
 **Akimaylilll/Akimaylilll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
